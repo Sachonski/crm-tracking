@@ -16,7 +16,7 @@ const navigation = () => {
       title: 'Dashboard',
       icon: HomeOutline,
       path: '/'
-    },
+    }/*
     {
       title: 'Account Settings',
       icon: AccountCogOutline,
@@ -70,7 +70,7 @@ const navigation = () => {
       icon: CubeOutline,
       title: 'Form Layouts',
       path: '/form-layouts'
-    }
+    }*/
   ]
 }
 
